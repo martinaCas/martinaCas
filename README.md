@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martina Casalnuovo, I'm 23 yo and I'm studying **Computer Science** specialized _Cloud Computing_ to Unisa (Salerno's University).
 - 👀 I’m interested in **programming** and other more.
-- 🌱 I’m currently learning **Golang** and **MongoDB**.
+- 🌱 I’m currently learning **Flutter**.
 - 📫 How to reach me: **email** martinacasal.web@gmail.com
 
 <!---
